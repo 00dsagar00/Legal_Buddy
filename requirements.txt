@@ -1,0 +1,9 @@
+streamlit>=1.50
+pypdf>=4.0
+pandas
+numpy
+plotly
+openai>=1.40
+torch
+transformers>=4.40
+python-dotenv
