@@ -1,5 +1,7 @@
 # Legal Buddy
 
+Upload any Indian legal contract: a rental, employment, service or other contract and get a plain-language explanation of every important clause, the risks to watch out for, and answers to your follow-up questions.
+
 InLegalBERT (clause classification + retrieval) + an LLM (Gemini or OpenAI) for plain-language explanations,
 risk-analysed summary and grounded follow-up chat, served through Streamlit.
 
